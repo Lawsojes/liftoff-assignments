@@ -15,4 +15,4 @@ Include Technologies here
 ### What I'll Have to Learn
 Include what you will need to learn here
 ### Project Tracker
-[Link to your Trello board here](https://trello.com/b/DuQR8qCa/liftoff-project)
+[EasyTravel Trello Page](https://trello.com/b/DuQR8qCa/liftoff-project)
